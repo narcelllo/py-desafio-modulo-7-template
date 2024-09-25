@@ -8,26 +8,25 @@ classes com suas devidas responsabilidades.
 
 '''
 
-
 class TaskHandler:
-    def conect_api():
+    
+    def conect_api(): #ok
         pass
 
-    def create_task():
+    def create_task(): #ok
         pass
 
-    def update_task():
+    def update_task(): #ok
         pass
 
-    def remove_task():
+    def remove_task():#ok
         pass
 
-    def send_notification():
+    def send_notification(): #oK
         pass
 
-    def generate_report():
+    def generate_report(): #ok
         pass
 
-    def send_report():
+    def send_report(): #ok
         pass
-
